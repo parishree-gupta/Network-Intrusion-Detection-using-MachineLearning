@@ -1,29 +1,22 @@
 # Python
 __pycache__/
 *.py[cod]
-
 # Jupyter
 .ipynb_checkpoints/
-
 # Virtual environments
 venv/
 .venv/
 env/
-
 # IDE
 .vscode/
 .idea/
-
 # Operating System
 .DS_Store
 Thumbs.db
-
 # Logs
 *.log
-
 # Model files (optional)
 *.h5
 *.keras
-
 # Temporary files
 *.tmp
